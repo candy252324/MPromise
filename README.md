@@ -1,1 +1,1 @@
-# MPromise
+# 手写Promise核心功能
