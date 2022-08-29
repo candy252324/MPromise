@@ -1,0 +1,22 @@
+{
+  "name": "mpromise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MPromise.js",
+  "scripts": {
+    "test": "promises-aplus-tests test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candy252324/MPromise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candy252324/MPromise/issues"
+  },
+  "homepage": "https://github.com/candy252324/MPromise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
